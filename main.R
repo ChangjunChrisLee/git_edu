@@ -31,3 +31,6 @@ mtcars %>% head
 mtcars %>% ggplot(aes(x = cyl,
                       y = hp)) +
   geom_boxplot()
+
+
+# you see the M?
